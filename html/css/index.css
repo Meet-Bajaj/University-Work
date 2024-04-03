@@ -168,3 +168,11 @@ margin: 20px 10px 20px 0px;
 .container1 p{
     padding: 5px ;
 }
+.footer{
+    text-align: center;
+    color: #edede9;
+    background-color: black;
+    padding: 20px;
+    width: 97.5%;
+
+}
